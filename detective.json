@@ -1,0 +1,149 @@
+[
+    {
+      "id": 1,
+      "description": "Kasus pembunuhan terjadi di sebuah rumah mewah. Korban ditemukan tewas di ruang tamu.",
+      "choices": {
+        "1": "Periksa TKP",
+        "2": "Wawancara Saksi",
+        "3": "Lihat Bukti"
+      },
+      "clues": {
+        "1": "Ada pecahan kaca di lantai dekat jendela.",
+        "2": "Saksi melihat seorang pria berjaket hitam kabur dari rumah.",
+        "3": "Ada sidik jari di pegangan pisau."
+      },
+      "suspects": {
+        "1": "Pemilik Rumah",
+        "2": "Tukang Kebun",
+        "3": "Teman Korban"
+      },
+      "solution": "2",
+      "solution_description": "Tukang kebun adalah pelaku karena dia menggunakan kunci duplikat untuk masuk ke dalam rumah dan mencuri barang berharga."
+    },
+    {
+      "id": 2,
+      "description": "Seorang pebisnis ditemukan tewas di kantornya. Tidak ada tanda-tanda perlawanan.",
+      "choices": {
+        "1": "Periksa Kantor",
+        "2": "Wawancara Rekan Kerja",
+        "3": "Periksa Riwayat Panggilan"
+      },
+      "clues": {
+        "1": "Komputer korban dalam keadaan menyala dan menampilkan email ancaman.",
+        "2": "Seorang rekan kerja mengatakan korban memiliki musuh bisnis.",
+        "3": "Riwayat panggilan menunjukkan panggilan terakhir kepada seorang investor."
+      },
+      "suspects": {
+        "1": "Investor",
+        "2": "Rekan Kerja",
+        "3": "Pengantar Surat"
+      },
+      "solution": "1",
+      "solution_description": "Investor adalah pelaku karena dia memiliki motif kuat setelah investasi besar yang gagal."
+    },
+    {
+      "id": 3,
+      "description": "Seorang ilmuwan ditemukan tewas di lab dengan tanda-tanda keracunan.",
+      "choices": {
+        "1": "Periksa Lab",
+        "2": "Periksa Kamera CCTV",
+        "3": "Wawancara Rekan Peneliti"
+      },
+      "clues": {
+        "1": "Ada bekas zat kimia di meja ilmuwan.",
+        "2": "Kamera menunjukkan seseorang dengan jas lab memasuki ruangan sebelum kejadian.",
+        "3": "Rekan peneliti mengaku mendengar suara gaduh sebelum korban ditemukan."
+      },
+      "suspects": {
+        "1": "Rekan Peneliti",
+        "2": "Asisten Lab",
+        "3": "Pemasok Bahan Kimia"
+      },
+      "solution": "2",
+      "solution_description": "Asisten lab adalah pelaku karena dia memiliki akses ke zat kimia dan motif finansial untuk melakukan pembunuhan."
+    },
+    {
+      "id": 4,
+      "description": "Seorang atlet ditemukan tewas di ruang ganti setelah latihan berat.",
+      "choices": {
+        "1": "Periksa Ruang Ganti",
+        "2": "Wawancara Rekan Tim",
+        "3": "Periksa Peralatan Latihan"
+      },
+      "clues": {
+        "1": "Ada obat-obatan yang tersembunyi di loker korban.",
+        "2": "Rekan tim mengatakan korban terlihat lelah dan stres akhir-akhir ini.",
+        "3": "Peralatan latihan korban terlihat rusak dan tidak aman."
+      },
+      "suspects": {
+        "1": "Pelatih",
+        "2": "Rekan Tim",
+        "3": "Manajer Tim"
+      },
+      "solution": "1",
+      "solution_description": "Pelatih adalah pelaku karena dia memaksa korban untuk menggunakan obat peningkat kinerja yang menyebabkan kematiannya."
+    },
+    {
+      "id": 5,
+      "description": "Seorang penulis terkenal ditemukan tewas di perpustakaannya, di sampingnya terdapat naskah baru.",
+      "choices": {
+        "1": "Periksa Naskah",
+        "2": "Wawancara Asisten",
+        "3": "Periksa Telepon Korban"
+      },
+      "clues": {
+        "1": "Naskah mengandung informasi rahasia tentang orang terkenal.",
+        "2": "Asisten mengatakan korban baru saja menerima ancaman.",
+        "3": "Telepon korban memiliki pesan dari penerbit yang memintanya berhenti menulis."
+      },
+      "suspects": {
+        "1": "Penerbit",
+        "2": "Asisten Penulis",
+        "3": "Rival Penulis"
+      },
+      "solution": "1",
+      "solution_description": "Penerbit adalah pelaku karena dia khawatir naskah itu akan merusak reputasi beberapa kliennya."
+    },
+    {
+      "id": 6,
+      "description": "Korban ditemukan di hutan selama perjalanan pendakian dengan teman-temannya. Sebuah tali yang rusak ditemukan dekat lokasi.",
+      "choices": {
+        "1": "Periksa Tenda Korban",
+        "2": "Wawancara Teman Pendaki",
+        "3": "Periksa Tali"
+      },
+      "clues": {
+        "1": "Tenda korban terlihat tertata dengan baik, tidak ada tanda-tanda perlawanan.",
+        "2": "Teman korban mengatakan dia sedang stres tentang pekerjaannya.",
+        "3": "Tali yang ditemukan dekat korban terlihat sengaja dipotong."
+      },
+      "suspects": {
+        "1": "Teman Dekat Korban",
+        "2": "Pendaki Lain",
+        "3": "Pemandu Pendakian"
+      },
+      "solution": "3",
+      "solution_description": "Pemandu pendakian adalah pelaku karena dia memotong tali untuk menyamarkan kecelakaan yang disengaja."
+    },
+    {
+      "id": 7,
+      "description": "Seorang CEO terkenal ditemukan tewas di rumahnya setelah pesta perusahaan. Sebuah gelas minuman kosong ditemukan di sampingnya.",
+      "choices": {
+        "1": "Periksa Dapur",
+        "2": "Wawancara Tamu Pesta",
+        "3": "Periksa CCTV"
+      },
+      "clues": {
+        "1": "Gelas minuman kosong berbau alkohol kuat.",
+        "2": "Salah satu tamu pesta mengatakan korban terlihat bertengkar dengan seseorang.",
+        "3": "CCTV menunjukkan seorang tamu membawa sesuatu ke dapur."
+      },
+      "suspects": {
+        "1": "Rekan Bisnis",
+        "2": "Koki Pribadi",
+        "3": "Saingan Korban"
+      },
+      "solution": "2",
+      "solution_description": "Koki pribadi adalah pelaku karena dia meracuni minuman korban selama pesta."
+    }
+  ]
