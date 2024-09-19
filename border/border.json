@@ -3,5 +3,16 @@
     "url": "https://raw.githubusercontent.com/rizxyu/Bot-gamejson/refs/heads/main/border/IMG_20240919_103731.png",
     "ukuran": 450,
     "border": 225
+  },
+  "vip": {
+    "url": "https://raw.githubusercontent.com/rizxyu/Bot-gamejson/refs/heads/main/border/vvip.png",
+    "ukuran": 320,
+    "border": 160
+  },
+  "gimbot": {
+    "url": "https://raw.githubusercontent.com/rizxyu/Bot-gamejson/refs/heads/main/border/summer.png",
+    "ukuran": 410,
+    "border": 205
+    "
   }
 }
