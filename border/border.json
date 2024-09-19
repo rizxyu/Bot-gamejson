@@ -6,8 +6,8 @@
   },
   "vip": {
     "url": "https://raw.githubusercontent.com/rizxyu/Bot-gamejson/refs/heads/main/border/vvip.png",
-    "ukuran": 320,
-    "border": 160
+    "ukuran": 250,
+    "border": 125
   },
   "gimbot": {
     "url": "https://raw.githubusercontent.com/rizxyu/Bot-gamejson/refs/heads/main/border/summer.png",
